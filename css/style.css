@@ -27,3 +27,33 @@
     color: white;
     border: none;
 }
+
+.categories {}
+
+.categories img {
+    width: 100px;
+}
+
+.cat-1,
+.cat-2,
+.cat-3 {
+    padding: 15px 20px;
+    border-radius: 8px;
+    color: white;
+}
+
+.cat-1 {
+    background-image: linear-gradient(to bottom right, #fe9938, #fed018);
+}
+
+.cat-2 {
+    background-image: linear-gradient(to bottom right, #fe5297, #ff1b75);
+}
+
+.cat-3 {
+    background-image: linear-gradient(to bottom right, #4187ff, #3f05f7);
+}
+
+.card {
+    /*border: none;*/
+}
