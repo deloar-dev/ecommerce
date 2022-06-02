@@ -54,6 +54,12 @@
     background-image: linear-gradient(to bottom right, #4187ff, #3f05f7);
 }
 
-.card {
-    /*border: none;*/
+footer {
+    text-align: center;
+    color: #222;
+    bottom: 20px;
+}
+
+.subscribe {
+    height: 300px;
 }
